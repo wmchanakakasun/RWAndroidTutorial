@@ -9,7 +9,7 @@ This project is a barebones Android Studio project that implements the code styl
 <img src="img/working_gif.gif" height="480"/>
 
 The items implemented are:
-
+- new
 - Correct format for the package name
 - An RW launcher icon
 - A customized RW Splash screen
